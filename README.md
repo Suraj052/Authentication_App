@@ -1,8 +1,8 @@
 # Authentication_App
 
 An application made from flutter using dart language firebase.
-Authentication using email and password
-SignUp Page
+\nAuthentication using email and password
+\nSignUp Page
 SignIn Page
 Forgot Password Page
 Home Page
